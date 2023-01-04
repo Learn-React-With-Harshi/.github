@@ -1,4 +1,4 @@
-## Hello World, Welcome to my learning space 👋
+## Welcome to my learning space 👋
 
 I will be documenting my react learning journey in this series. I am learning React through [Namaste React Live Course](https://learn.namastedev.com/) conducted by Akshay Saini
 
