@@ -4,7 +4,7 @@ I will be documenting my react learning journey in this series. I am learning Re
 
 ### About me :pray: :
 
-I'm Harshitha and I worked as a front-end developer woman_technologist: in Bangalore (India) for 3 years before moving to Amsterdam (Netherlands). 
+I'm Harshitha and I worked as a front-end developer :woman_technologist: in Bangalore (India) for 3 years before moving to Amsterdam (Netherlands). 
 
 Currently, I am stay-at-home-mom :breast_feeding: (on a career break for 3 years now), taking care of my toddler :family_man_woman_girl: and slowly rebooting myself to bounce back to work.
 
