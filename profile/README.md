@@ -3,7 +3,7 @@
 I will be documenting my react learning journey in this series. I am learning React through [Namaste React Live Course](https://learn.namastedev.com/) conducted by Akshay Saini and enjoying every session. 
 
 ### Where to start ?
-If you are new to this learning space and wondering where to start, have a look at [Table of Contents](https://github.com/Learn-React-With-Harshi/table-of-contents) for getting a better idea.
+If you are new to this blog and wondering where to start, have a look at [Table of Contents](https://github.com/Learn-React-With-Harshi/table-of-contents) for getting a better idea.
 
 ### About me :pray: :
 
