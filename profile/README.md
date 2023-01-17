@@ -2,6 +2,9 @@
 
 I will be documenting my react learning journey in this series. I am learning React through [Namaste React Live Course](https://learn.namastedev.com/) conducted by Akshay Saini
 
+### Where to start ?
+If you are new to this learning space and wondering where to start, have a look at [Table of Contents](https://github.com/Learn-React-With-Harshi/table-of-contents) for getting a better idea.
+
 ### About me :pray: :
 
 I'm Harshitha and I worked as a front-end developer :woman_technologist: in Bangalore (India) for 3 years before moving to Amsterdam (Netherlands). 
