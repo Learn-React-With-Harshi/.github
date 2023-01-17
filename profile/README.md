@@ -14,4 +14,4 @@ Currently, I am stay-at-home-mom :breast_feeding: (on a career break for 3 years
 In my career reboot 2.0 journey, I am revising all the frond-end core skills like javascript, css and html and other libraries. There are lot of new features to catch up that were released in the meantime. Learning `react` was on top of my list. I am glad that I got the opportunity to learn React from Akshay Saini himself in the live course, who is the founder of Namaste Javascript youtube channel, which delivers clear explanation for all core js concepts. 
 
 
-I am currently looking for job opportunities in Netherlands and Remote. If you have any leads that matches my skills, please let me know in [LinkedIn](https://www.linkedin.com/in/harshitha-sv/).
+I am currently looking for job opportunities in Netherlands and Remote. If you have any leads that match my skills, please let me know in [LinkedIn](https://www.linkedin.com/in/harshitha-sv/).
